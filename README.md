@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">About</h1>
-<h4>I'm Emerson Hoffmann, I'm 24 years old and I currently live in Cascavel, Paraná - Brazil.
+<h4>I'm Emerson Hoffmann, I'm 25 years old and I currently live in Cascavel, Paraná - Brazil.
 I'm graduated in Computer Science (UNIOESTE) and have experience in back-end application development, with satisfactory experience working with NodeJS and NestJS in various projects.
 
 I have knowledge in the field of computer science and my goal is to learn new concepts, tools and languages and delve deeply into new projects and solutions.
