@@ -17,7 +17,7 @@ I have knowledge in the field of computer science and my goal is to learn new co
 My purpose is to always seek to deliver the best, with quality and on time, and this is what motivates me to continue learning.</h4>
 
 
-* 🔭 **I’m currently working on**: [MarketEasy Tecnologia](https://www.linkedin.com/company/newtail).
+* 🔭 **I’m currently working on**: [Newtail](https://www.linkedin.com/company/newtail).
 * 🌱 **I’m currently learning**: `React`, `Kafka` and `TDD`.
 * 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
 * 🤔 **I’m currently open for**: `New projects`.
